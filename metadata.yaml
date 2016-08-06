@@ -1,0 +1,31 @@
+_repo: Count-the-Cost--13-An-Address-to-the-People-of-Connecticut-On-Sundry-Political-Subjects-and-P__10805
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Daggett, David
+    aliases:
+    - Steadfast, Jonathan
+    - Connecticutensis
+    - Hold-fast, Simon
+    birthdate: 1764
+    deathdate: 1851
+    gutenberg_agent_id: '3688'
+    url: http://www.gutenberg.org/2009/agents/3688
+    wikipedia: http://en.wikipedia.org/wiki/David_Daggett
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Constitutional law -- Connecticut'
+- !lcsh 'Connecticut -- Politics and government -- 1775-1865'
+- !lcc 'F001'
+- GITenberg
+title: "Count the Cost\r\nAn Address to the People of Connecticut, On Sundry Political\
+  \ Subjects, and Particularly on the Proposition for a New Constitution"
+url: http://www.gutenberg.org/ebooks/10805
